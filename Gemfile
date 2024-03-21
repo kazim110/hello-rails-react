@@ -13,8 +13,8 @@ gem 'sprockets-rails'
 # Use postgresql as the database for Active Record
 gem 'pg', '~> 1.1'
 
-# gem irb now depends on psych, but version 5 will not bundle currently  
-gem "psych", "~> 4"
+# gem irb now depends on psych, but version 5 will not bundle currently
+gem 'psych', '~> 4'
 
 # Use the Puma web server [https://github.com/puma/puma]
 gem 'puma', '>= 5.0'
