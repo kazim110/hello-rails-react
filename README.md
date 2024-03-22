@@ -146,7 +146,7 @@ It does not apply because it is a template.
 👤 **Kazim Mohammadi**
 
 - GitHub: [@Kazim Mohammadi](https://github.com/kazim110)
-- LinkedIn: [@Kazim Mohammadi](linkedin.com/in/kazim-mohammadi/)
+- LinkedIn: [Kazim Mohammadi](https://www.linkedin.com/in/kazim-mohammadi/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
