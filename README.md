@@ -1,6 +1,7 @@
 # React-with-Rails-Webpack-template
 
 <a name="readme-top"></a>
+
 <div align="center">
   <h3><b>React with Ruby on Rails - Webpack template.</b></h3>
 </div>
